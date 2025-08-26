@@ -196,12 +196,12 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#4C566A",
+            "color": "#B6C1CC",
             "font_style": "italic",
             "font_weight": null
           },
           "constant": {
-            "color": "#D8DEE9",
+            "color": "#81A1C1",
             "font_style": null,
             "font_weight": null
           },
@@ -226,7 +226,7 @@
             "font_weight": null
           },
           "enum": {
-            "color": null,
+            "color": "#81A1C1",
             "font_style": null,
             "font_weight": null
           },
@@ -241,12 +241,12 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#8FBCBB",
+            "color": "#91aec9",
             "font_style": null,
             "font_weight": null
           },
           "label": {
-            "color": null,
+            "color": "#FFC0CB",
             "font_style": null,
             "font_weight": null
           },
