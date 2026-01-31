@@ -1,0 +1,7 @@
+id = "nord-dark"
+name = "Nord Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["Matthew Mckee <matthewmckee04@yahoo.co.uk>"]
+description = "Nord Dark theme"
+repository = "https://github.com/MatthewMckee4/zed-nord-dark-theme"
